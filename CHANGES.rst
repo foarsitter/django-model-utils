@@ -1,10 +1,11 @@
 Changelog
 =========
 
-To be released
+4.5.0 (2024-04-01)
 --------------
 - Add Brazilian Portuguese translation (GH-#578)
-- Don't use `post_init` signal for initialize tracker
+- Don't use `post_init` signal for initialize tracker (GH-#556)
+- Remove arguments from InheritanceQuerySetMixin._clone() (GH-#567)
 
 4.4.0 (2024-02-10)
 ------------------
